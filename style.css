@@ -25,11 +25,11 @@ main{
     height: 450px;
 }
 .bold-text{
-    font-size: 1.67em;
+    font-size: 2em;
     margin: 0px;
     margin-bottom: 16px;
     word-wrap: break-word;
-    font-weight: 400;
+    font-weight: 600;
 }
 .description, .left-panel p{
    
@@ -57,18 +57,18 @@ grid-column-gap: 10px;
 }
 .left-panel{
     background-color: #1c1938;
-    padding: 5%;
+    padding: 5% 8%;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
 
 }
 .right-panel{
-    background-color: #cc2fb1;
+    background-color: #7929b5;
 }
 .right-panel .image{
     display: block;
-    background-color: #cc2fb1;
+    background-color: #7929b5;
     background-image: url("./images/image-header-desktop.jpg");
     background-repeat: no-repeat;
     
